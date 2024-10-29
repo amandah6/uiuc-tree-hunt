@@ -1,0 +1,18 @@
+https://stackoverflow.com/questions/22155017/can-i-prevent-panning-leaflet-map-out-of-the-worlds-edge
+https://parzibyte.me/blog/en/2020/11/12/creating-api-rest-with-python-flask-sqlite3/
+https://www.sqlitetutorial.net/sqlite-python/sqlite-python-select/
+https://pythonbasics.org/flask-tutorial-routes/
+https://docs.python.org/3/library/sqlite3.html
+https://blog.miguelgrinberg.com/post/how-to-deploy-a-react--flask-project
+https://www.unrepo.com/sqlite/authentication-and-authorization-in-sqlite-tutorial
+https://www.w3schools.com/react/react_router.asp
+https://medium.com/@ritikkhndelwal/react-router-dom-tutorial-dynamic-routing-made-easy-a75ba2c258f8
+https://www.youtube.com/watch?v=jD6813wGdBA (react-leaflet tutorial for beginners)
+https://math.stackexchange.com/questions/1801867/finding-the-centre-of-an-abritary-set-of-points-in-two-dimensions
+https://www.w3schools.com/python/python_lists_comprehension.asp
+
+https://stackoverflow.com/questions/60305048/leaflet-map-is-going-blank-when-zooming-more-than-18
+https://stackoverflow.com/questions/55009403/missing-leaflet-map-tiles-when-using-react-leaflet
+https://gis.stackexchange.com/questions/78843/zoom-further-in-than-level-19-with-leaflet-javascript-api     // solved my problem of map tiles not loading after the tilelayer's max zoom!!
+https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array
+https://stackoverflow.com/questions/8605516/set-the-select-option-as-blank-as-default-in-html-select-element
