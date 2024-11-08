@@ -25,7 +25,8 @@ code {
 [class*="col-"] {
   width: 100%;
 }
-@media only screen and (min-width: 768px) {
+
+@media only screen and (min-width: 1024px) {
   .col-1 {width: 8.33%;}
   .col-2 {width: 16.66%;}
   .col-3 {width: 25%;}
@@ -40,6 +41,7 @@ code {
   .col-12 {width: 100%;}
 }
 
+
 [class*="col-"] {
   float: left;
   padding: 15px;
@@ -52,33 +54,28 @@ code {
 }
 
 .map {
-  display: flex;
   padding-top: 5%;
   padding-left: 5%;
-  justify-content: center;
-  flex-direction: column;
-  align-items: center;
-  column-gap: 5%;
+  padding-right: 5%;
 }
 
-.leaflet-div-icon {
-  border-radius: 20px;
+.leaflet-marker-icon {
+  border-radius: 10px;
   font-size: 12px;
   text-align: center;
 }
 
 .select-tree {
-  display: flex;
-  flex-direction: column;
+  margin-top: 10px;
+  .tree-box {
+    width: 50%;
+    border-color: grey;
+    border-style: solid none none none;
+    border-width: 2px;
+  }
 }
 
-.split {
-  display: flex;
-  flex-direction: row;
-  align-items: stretch;
-  align-content: stretch;
-  justify-content: space-between;
-  row-gap: 10px;
-  border-width: 2px;
-  border-style: solid;
+.answer-box {
+  //border-color: red;
+  //border-style: solid;
 }
